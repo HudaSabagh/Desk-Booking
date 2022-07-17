@@ -1,4 +1,4 @@
-# deskbookingsystem-huda-u-iasmina-u-jared
+# deskbookingsystem-huda
 
 ## Project setup
 ```
