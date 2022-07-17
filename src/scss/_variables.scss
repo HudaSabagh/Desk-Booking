@@ -1,0 +1,21 @@
+// Colors
+$main-dark: #2a2b2dff;
+$main-grey: rgba(127, 127, 127, 1);
+$main-light-blue: #ffcc00; //warning-class in bootsrap
+$main-light: #cbcbe991;
+$main-turkis: rgba(158, 239, 229, 1);
+$sidebar-left: #4a4a4a;
+//Typography
+
+$sans-serif: "Roboto", sans-serif;
+.active-page {
+  color: #ffcc00;
+}
+$thin: 100;
+$light: 300;
+$regular: 400;
+
+body {
+  margin: 0;
+  font-family: $sans-serif;
+}
